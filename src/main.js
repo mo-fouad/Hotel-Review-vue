@@ -5,9 +5,9 @@ import axios from 'axios'
 import App from './App'
 
 
-
 Vue.config.productionTip = false;
 
+// Making AXIOS Global to be used in any component
 window.axios = axios;
 
 /* eslint-disable no-new */

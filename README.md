@@ -1,6 +1,8 @@
-# vue-project
+# Hotel Review App
 
-> hotel review app
+> this application get data from specific end points and shows data based on it,
+> this application build with Vue cli, to run the project, please follow the instructions
+
 
 ## Build Setup
 
@@ -24,4 +26,13 @@ npm run unit
 npm test
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+### what is missing from this App is
+
+* more Test Cases to cover all the project.
+* add animation and transition when the user react with the App.
+
+
+### Please Note
+> I included CSS from CDN just to save some times.
+> you can find Documentation on the fly in every page

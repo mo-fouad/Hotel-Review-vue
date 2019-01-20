@@ -7,6 +7,8 @@ module.exports = {
     'json',
     'vue'
   ],
+  "verbose": true,
+  testURL: "http://localhost/",
   moduleNameMapper: {
     '^@/(.*)$': '<rootDir>/src/$1'
   },
@@ -23,4 +25,6 @@ module.exports = {
     '!src/main.js',
     '!**/node_modules/**'
   ]
-}
+
+};
+
